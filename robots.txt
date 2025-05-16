@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://travel.kdchang.net/sitemap.xml

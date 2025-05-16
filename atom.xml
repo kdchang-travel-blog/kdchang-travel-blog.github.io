@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KD&#39;s Travel Blog</title>
+  <icon>https://travel.kdchang.net/logo.png</icon>
+  <subtitle>Hi, 我是 KD Chang 張凱迪，我在這書寫我的旅行筆記 | KD 旅行部落格</subtitle>
+  <link href="https://travel.kdchang.net/atom.xml" rel="self"/>
+  
+  <link href="https://travel.kdchang.net/"/>
+  <updated>2025-05-16T07:59:05.424Z</updated>
+  <id>https://travel.kdchang.net/</id>
+  
+  <author>
+    <name>KD Chang 張凱迪</name>
+    <email>kdchang.net@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>旅行的意義？</title>
+    <link href="https://travel.kdchang.net/2024/03/16/why-travel/"/>
+    <id>https://travel.kdchang.net/2024/03/16/why-travel/</id>
+    <published>2024-03-16T03:33:41.000Z</published>
+    <updated>2025-05-16T07:59:05.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;為什麼要旅行？&quot;&gt;&lt;a href=&quot;#為什麼要旅行？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="旅行的意義" scheme="https://travel.kdchang.net/tags/%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E7%BE%A9/"/>
+    
+    <category term="旅遊" scheme="https://travel.kdchang.net/tags/%E6%97%85%E9%81%8A/"/>
+    
+    <category term="旅行" scheme="https://travel.kdchang.net/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+</feed>
