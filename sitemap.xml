@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://travel.kdchang.net/tags/</loc>
+    <loc>https://travel.kdchang.net/search/</loc>
     
     <lastmod>2025-05-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://travel.kdchang.net/search/</loc>
+    <loc>https://travel.kdchang.net/tags/</loc>
     
     <lastmod>2025-05-16</lastmod>
     
@@ -30,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://travel.kdchang.net/about/</loc>
+    <loc>https://travel.kdchang.net/books/</loc>
     
     <lastmod>2025-05-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://travel.kdchang.net/books/</loc>
+    <loc>https://travel.kdchang.net/about/</loc>
     
     <lastmod>2025-05-16</lastmod>
     
