@@ -67,7 +67,11 @@ friends:
   [
     { title: "KD 閱讀職場人生 🔖", href: "https://www.kdchang.net" },
     {
-      title: "聽出職場軟實力 Podcast",
+      title: "KD's Tech Blog 技術部落格 👨‍💻",
+      href: "https://tech.kdchang.net/",
+    },
+    {
+      title: "聽出職場軟實力 Podcast 🎧",
       href: "https://open.firstory.me/user/soft-skills-hacker",
     },
     { title: "CoderBridge", href: "https://tw.coderbridge.com/" },
